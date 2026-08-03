@@ -156,7 +156,7 @@ Nueve pruebas de seguridad y funcionamiento.
 
 ## Licencia
 
-*(Elige e indica aquí la licencia del proyecto)*
+Uso gratuito, sin reventa ni redistribución o modificación por terceros. Las sugerencias de mejora son bienvenidas por la pestaña Issues.
 
 <img src="separador.svg" width="100%" alt="">
 
